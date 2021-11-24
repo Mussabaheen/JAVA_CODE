@@ -34,9 +34,9 @@ public class helloworld {
 
         int y = 5;
         y =y + 30; // y->
-        System.out.println(y<=31);
-        System.out.println(x >= 10);
-        System.out.println(y <= 31 || x >= 10);
+        // System.out.println(y<=31);
+        // System.out.println(x >= 10);
+        // System.out.println(y <= 31 && x >= 10 && false || false);
 
         System.out.println(!adnan);
 
